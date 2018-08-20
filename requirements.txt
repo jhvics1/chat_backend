@@ -1,0 +1,11 @@
+django==2.0
+djangorestframework==3.8.2
+django-rest-swagger==2.2.0
+django-cors-headers==2.4.0
+django-notifs==2.6.0
+celery==4.2.1
+pika==0.12.0
+uwsgi==2.0.17
+djoser==1.2.0
+ws4py==0.5.1
+pysqlite3==0.2.0
